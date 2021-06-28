@@ -1,4 +1,4 @@
-# chained-asyn-XMLHttpRequest
+# [Typescript] chained-asyn-XMLHttpRequest
 A Typescript chain tool puts each request in the callback function of the previous one.
 ## Usage
 ```Typescript
