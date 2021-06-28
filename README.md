@@ -1,5 +1,5 @@
 # chained-asyn-XMLHttpRequest
-A chain tool puts each request in the callback function of the previous one.
+A Typescript chain tool puts each request in the callback function of the previous one.
 ## Usage
 ```Typescript
 // 1 Create a chained_asyn_requestor object, the parameter is a number to control how many asynchronous requests can be sent at the same time.
